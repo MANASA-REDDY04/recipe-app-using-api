@@ -9,8 +9,7 @@ Welcome to the Recipe Finder website! This web application allows users to searc
 - [Installation](#installation)
 - [Usage](#usage)
 - [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
